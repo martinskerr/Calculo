@@ -1,10 +1,10 @@
-#Generación de Datos Sintéticos: Tendencia.py
+# Generación de Datos Sintéticos: Tendencia.py
 Se generan n_points datos con una tendencia lineal y ruido aleatorio.
 Se grafica la serie temporal con la tendencia subyacente.
 Aplicación de Diferencias Finitas:
 
-Se define una función finite_difference para calcular la primera derivada usando diferencias finitas centrales.
-Se aplican diferencias finitas a los datos ruidosos y se grafica la aproximación de la derivada.
+## Se define una función finite_difference para calcular la primera derivada usando diferencias finitas centrales.
+## Se aplican diferencias finitas a los datos ruidosos y se grafica la aproximación de la derivada.
 Suavizado de Datos (Opcional):
 
 Se define una función moving_average para suavizar los datos usando un promedio móvil.
