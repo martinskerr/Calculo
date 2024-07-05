@@ -53,6 +53,17 @@ El código de análisis realiza las siguientes tareas:
 -Calcular y graficar la segunda derivada para evaluar la aceleración de los precios.
 -Evaluar y graficar la volatilidad como la desviación estándar de las diferencias finitas.
 
+![image](https://github.com/martinskerr/Calculo/assets/98781432/f5fc040f-f1f8-40a0-a2a3-8cd3b59f1b03)
+
+![image](https://github.com/martinskerr/Calculo/assets/98781432/8a2d8101-fd6e-4aa6-b222-21298bd8dba7)
+
+![image](https://github.com/martinskerr/Calculo/assets/98781432/779ec849-203a-41f2-a2ec-9c6de2d090cd)
+
+![image](https://github.com/martinskerr/Calculo/assets/98781432/1729c915-132d-4b09-afe8-947b136ed4e9)
+
+
+
+
 Licencia
 Este proyecto está licenciado bajo los términos de la Licencia MIT.
 
