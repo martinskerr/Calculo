@@ -34,6 +34,13 @@ Aunque el ruido en los datos puede afectar la precisión, técnicas de suavizado
 La correcta elección del tamaño del paso y de la ventana de suavizado es crucial para obtener resultados precisos y útiles. 
 Este enfoque puede ser aplicado a diversos campos donde el análisis de tendencias es importante, como la economía, la ingeniería y las ciencias naturales.
 
+![image](https://github.com/martinskerr/Calculo/assets/98781432/8a2d8101-fd6e-4aa6-b222-21298bd8dba7)
+
+![image](https://github.com/martinskerr/Calculo/assets/98781432/779ec849-203a-41f2-a2ec-9c6de2d090cd)
+
+![image](https://github.com/martinskerr/Calculo/assets/98781432/1729c915-132d-4b09-afe8-947b136ed4e9)
+
+
 # Análisis Financiero con Derivadas en Python: Finanzas.py & pruebacsv.py
 
 Este proyecto realiza un análisis financiero utilizando derivadas a partir de datos de precios históricos de acciones. Utiliza técnicas de diferencias finitas para detectar tendencias y evaluar la volatilidad de los precios.
@@ -90,12 +97,6 @@ El código de análisis realiza las siguientes tareas:
 -Evaluar y graficar la volatilidad como la desviación estándar de las diferencias finitas.
 
 ![image](https://github.com/martinskerr/Calculo/assets/98781432/f5fc040f-f1f8-40a0-a2a3-8cd3b59f1b03)
-
-![image](https://github.com/martinskerr/Calculo/assets/98781432/8a2d8101-fd6e-4aa6-b222-21298bd8dba7)
-
-![image](https://github.com/martinskerr/Calculo/assets/98781432/779ec849-203a-41f2-a2ec-9c6de2d090cd)
-
-![image](https://github.com/martinskerr/Calculo/assets/98781432/1729c915-132d-4b09-afe8-947b136ed4e9)
 
 
 
